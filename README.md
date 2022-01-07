@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fernando-silvabr66
-- 👀 I’m interested in learning everything related to Computer Programming
-- 🌱 I’m currently learning Java, JPA, Spring boot and Kotlin.
+- 👀 I’m interested in learning everything related to Computer Programming and Web Software Development
+- 🌱 I’m currently learning HTML/CSS, JS, Node, Ruby on Rails and others.
 - 💞️ I’m looking to collaborate on any project that may require my help.
 - 📫 How to reach me: fernando.silvabr66@gmail.com
 
