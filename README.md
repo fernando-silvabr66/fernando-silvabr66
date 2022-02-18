@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fernando-silvabr66
-- 👀 I’m interested in learning everything related to Computer Programming and Web Software Development
-- 🌱 I’m currently learning HTML/CSS, JS, Node, Ruby on Rails and others.
-- 💞️ I’m looking to collaborate on any project that may require my help.
+- 👋 Hi, I’m Fernando Silva
+- 👀 I’m interested in everything related to Computer Programming and Web Software Development
+- 🌱 I’m currently working with JavaScript, Node and Ruby on Rails.
+- 💞️ I’m current looking for new oportunities in Web Software Development.
 - 📫 How to reach me: fernando.silvabr66@gmail.com
 
 <!---
