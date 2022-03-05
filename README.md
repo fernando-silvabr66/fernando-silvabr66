@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Fernando Silva and I´m from Brazil.
 - 👀 I’m a Full-Stack Developer and I´m interested in a job position related to this area within Computer Programming and Web Software Development areas.
 - 🌱 I’m currently working with JavaScript, Node and Ruby on Rails.
-- 📫 You can reach me at: fernando.silvabr66@gmail.com
+- You can come back soon to view my Portfolio which is under development.
+- 📫 You can reach me at: fernando.silvabr66@gmail.com and through my LinkedIn profile: https://www.linkedin.com/in/fernando-silvabr66/
 
 <!---
 fernando-silvabr66/fernando-silvabr66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
